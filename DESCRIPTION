@@ -1,6 +1,6 @@
 Package: LISTAnet
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Local Indicators of Spatio-Temporal Association on linear networks
 Version: 0.1.0
 Author: Nicoletta D'Angelo, Giada Adelfio, Jorge Mateu
 Maintainer: Nicoletta D'Angelo <nicoletta.dangelo@unipa.it>
