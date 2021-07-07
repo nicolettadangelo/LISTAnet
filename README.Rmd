@@ -1,0 +1,17 @@
+---
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Hello world :)
+
+You can run the following code to install my package: 
+
+```{r, eval = FALSE}
+library(remotes)
+remotes::install_github("nicolettadangelo/LISTAnet")
+```
+
